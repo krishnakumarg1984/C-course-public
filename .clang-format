@@ -12,7 +12,7 @@ AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Left
 # AlignAfterOpenBracket: BlockIndent
-AlignConsecutiveAssignments: "AcrossEmptyLinesAndComments"
+AlignConsecutiveAssignments: "Consecutive"
 AlignConsecutiveBitFields: "AcrossEmptyLinesAndComments"
 AlignConsecutiveDeclarations: "None"
 AlignConsecutiveMacros: "AcrossEmptyLinesAndComments"
@@ -62,7 +62,7 @@ BreakConstructorInitializers: BeforeComma
 BreakConstructorInitializersBeforeComma: true
 BreakInheritanceList: BeforeComma
 BreakStringLiterals: true
-ColumnLimit: 120
+ColumnLimit: 145
 CommentPragmas: '^ IWYU pragma:'
 CompactNamespaces: false
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
@@ -99,7 +99,7 @@ IndentCaseLabels: true
 IndentExternBlock: NoIndent
 IndentGotoLabels: true
 # IndentPPDirectives: AfterHash
-IndentWidth: 2
+IndentWidth: 4
 IndentWrappedFunctionNames: false
 InsertTrailingCommas: Wrapped
 JavaScriptQuotes: Double

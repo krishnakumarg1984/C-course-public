@@ -18,7 +18,3 @@ ln -sf ../.vscode . 2>/dev/null
 ln -sf ../clean_builds.sh . 2>/dev/null
 ln -sf ../CPPLINT.cfg . 2>/dev/null
 # ln -sf ../.devcontainer . 2>/dev/null
-ln -sf ../dbg.h . 2>/dev/null
-ln -sf ../plog . 2>/dev/null
-ln -sf ../plog . 2>/dev/null
-ln -sf ../compile_flags.txt . 2>/dev/null
